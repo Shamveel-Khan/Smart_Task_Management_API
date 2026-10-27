@@ -160,7 +160,7 @@ SmartTaskManagement/
 #### Clone the repository
 
 ```bash
-git clone git@github.com:Emmanuel-Ejeagha/Smart_Task_Management_API.git
+git clone git@github.com:Shamveel-Khan/Smart_Task_Management_API.git
 cd Smart_Task_Management_API
 ```
 
@@ -258,12 +258,10 @@ You are free to use, modify, and distribute it for any purpose, including commer
 
 ## 📬 Contact & Community
 
-Maintainer: **Your Name** — [your.email@example.com](mailto:emma.ejeagha@gmail.com)
+Maintainer: **Shamveel Khan** — [shamveelkhilji@gmail.com](mailto:shamveelkhilji@gmail.com)
 
 * GitHub Issues — report bugs
 * Discussions — start a discussion
-* Twitter — @Emma_Ejeagha
-
 If you find this project useful, consider giving it a ⭐.
 
 ---

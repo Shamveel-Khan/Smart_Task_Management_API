@@ -13,7 +13,7 @@ Please read our [Code of Conduct](CODE_OF_CONDUCT.md). All contributors are expe
 1. **Fork** the repository.
 2. **Clone** your fork:
    ```bash
-   git clone git@github.com:Emmanuel-Ejeagha/Smart_Task_Management_API.git
+   git clone git@github.com:Shamveel-Khan/Smart_Task_Management_API.git
 
 
 3. **Set up the development environment** using the automated script:
